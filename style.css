@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+header {
+
+    background-color: #129799;
+    height: 550px;
+}
+
+.Menu ul {
+    width: 100%;
+    height: 60px;
+    list-style: none;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.Headerbatida {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.imgBatida {
+    width: 50%;
+    margin-top: -17px;
+}
+
+.menuDois ul {
+    height: 90px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    font-size: 25px;
+
+}
+
+main {
+    height: 100%;
+    background-color: #FFA185;
+
+}
+
+h2 main {
+    border: 1px solid red;
+    height: 20px;
+    font-size: 40px;
+    color: white;
+
+}
+
+.textoMain {
+    width: 67%;
+    height: 90px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+
+}
+
+.h2Main {
+    height: 95px;
+    color: white;
+    display: flex;
+    align-items: end;
+    font-size: 20px;
+
+}
+
+.caixadetexto {
+    width: 80%;
+    margin-left: 30px;
+}
+
+.imagensMain {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 35px;
+}
+
+main img {
+    width: 48%;
+}
+
+.VejaMais {
+    width: 100%;
+    height: 90px;
+    font-size: 25px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    width: 100%;
+    height: 100px;
+    background-color: #129799;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.imgfooter {
+    display: flex;
+    justify-content: space-between;
+    width: 15%;
+
+}
+
+.footerTexto {
+    font-size: 25px;
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    color:white;
+}
